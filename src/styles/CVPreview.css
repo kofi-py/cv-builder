@@ -1,0 +1,21 @@
+.cv-preview {
+  padding: 2rem;
+  background-color: white;
+  color: black;
+  width: 8.5in;
+  min-height: 11in;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  font-family: "Arial", sans-serif;
+  margin: 2rem auto;
+}
+
+.cv-preview h1 {
+  margin-bottom: 0.5rem;
+  font-size: 2rem;
+}
+
+.cv-preview h2 {
+  margin-top: 1.5rem;
+  font-size: 1.25rem;
+  color: #333;
+}
